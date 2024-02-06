@@ -1,3 +1,5 @@
 img.background {
-    display: none;
+    position: absolute;
+    top: 50%;
+    top: 50%;
 }
